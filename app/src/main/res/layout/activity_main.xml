@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+<TableRow
+    android:background="@color/black">
+    <TextView
+        android:textColor="@color/white"
+        android:text="name"
+        android:textStyle="bold"/>
+    <TextView
+        android:textColor="@color/white"
+        android:text="huy123"
+        android:textStyle="bold"/>
+    <TextView
+        android:textColor="@color/white"
+        android:text="123123"
+        android:textStyle="bold"/>
+</TableRow>
+    <TableRow>
+        <TextView
+            android:text="name"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="huy123"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="123123"
+            android:textStyle="bold"/>
+    </TableRow>
+</TableLayout>
